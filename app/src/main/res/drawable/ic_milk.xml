@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Cuerpo / contorno (se puede tintar) -->
+    <path
+        android:name="outline"
+        android:fillColor="#FF000000"
+        android:pathData="M8,5
+                          C8,7.2 8.8,9.1 10.2,10
+                          C10.7,10.3 11.3,10.5 12,10.5
+                          C12.7,10.5 13.3,10.3 13.8,10
+                          C15.2,9.1 16,7.2 16,5
+                          L16,4
+                          C16,3.45 15.55,3 15,3
+                          L13.5,3
+                          L12,4.2
+                          L10.5,3
+                          L9,3
+                          C8.45,3 8,3.45 8,4
+                          L8,5 Z
+
+                          M7,6
+                          L7,19
+                          C7,20.1 7.9,21 9,21
+                          L15,21
+                          C16.1,21 17,20.1 17,19
+                          L17,6
+                          L15.2,6
+                          C14.7,6 14.3,5.7 14.1,5.3
+                          C13.9,4.9 13.5,4.9 13.3,5.3
+                          L12,7
+                          L10.7,5.3
+                          C10.5,4.9 10.1,4.9 9.9,5.3
+                          C9.7,5.7 9.3,6 8.8,6
+                          L7,6 Z" />
+
+    <!-- "Leche" interior: forma ondulada -->
+    <path
+        android:name="milk"
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M9,13
+                          C10,12 11,13.2 12,13.2
+                          C13,13.2 14,12 15,13
+                          C15.4,13.3 16,13 16,13
+                          L16,18
+                          L8,18
+                          L8,13
+                          C8.6,13 8.8,13.4 9,13 Z"/>
+</vector>

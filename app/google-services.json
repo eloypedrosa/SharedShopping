@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1088516187166",
+    "project_id": "sharedshopping-16e68",
+    "storage_bucket": "sharedshopping-16e68.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088516187166:android:bbaa40cd222d3dcb7cfa0f",
+        "android_client_info": {
+          "package_name": "com.eloypedrosa.sharedshopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088516187166-re3npke6l0a43dnu1v1tmthq0kfdgc43.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eloypedrosa.sharedshopping",
+            "certificate_hash": "0c04310cc0124edb3328910c3c4186be953de0a7"
+          }
+        },
+        {
+          "client_id": "1088516187166-k6b6p24lmec7ge0c49qk5gvk2i1cbv5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOwzzcdsC1hggXeWLbvda5RLD1yg7vnJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088516187166-k6b6p24lmec7ge0c49qk5gvk2i1cbv5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
