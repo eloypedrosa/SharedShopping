@@ -17,10 +17,10 @@ Este proyecto demuestra el uso de arquitecturas reactivas para gestionar partida
 
 ## ✨ Características Destacadas
 
-* **⚡ Multijugador en Tiempo Real:** Sincronización instantánea de disparos y turnos utilizando **Kotlin Flows** y **Firestore**.
-* **🤝 Matchmaking Automático:** Sistema inteligente que busca partidas en espera (`WAITING`) o crea una nueva sala automáticamente si no hay rivales.
-* **🏆 Leaderboard Global:** Ranking de los mejores jugadores ordenados por puntuación total y victorias.
-* **🔐 Acceso Rápido:** Implementación de Login Anónimo para empezar a jugar sin registros tediosos.
+* ** Multijugador en Tiempo Real:** Sincronización instantánea de disparos y turnos utilizando **Kotlin Flows** y **Firestore**.
+* ** Matchmaking Automático:** Sistema inteligente que busca partidas en espera (`WAITING`) o crea una nueva sala automáticamente si no hay rivales.
+* ** Leaderboard Global:** Ranking de los mejores jugadores ordenados por puntuación total y victorias.
+* ** Acceso Rápido:** Implementación de Login Anónimo para empezar a jugar sin registros tediosos.
 
 ## 🛠️ Stack Tecnológico
 
@@ -48,6 +48,4 @@ El proyecto sigue las mejores prácticas de desarrollo moderno en Android:
 ### 👤 Autor
 
 **Eloy Pedrosa**
-* [eloypedrosa.cat](Tu Web)
-
-⭐️ **Si te ha gustado este proyecto, ¡no olvides darle una estrella!**
+* eloypedrosa.cat
