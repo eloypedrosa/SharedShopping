@@ -5,7 +5,11 @@ Este proyecto implementa una arquitectura basada en eventos para sincronizar pro
 
 ## 📱 Galería
 
-*(Espacio reservado para capturas de pantalla)*
+<img width="200"  alt="Screenshot_20251216_142335" src="https://github.com/user-attachments/assets/1f785465-c0da-4b2a-8fe5-0fd52f83b741" />
+<img width="200"  alt="Screenshot_20251216_142158" src="https://github.com/user-attachments/assets/caec9e3e-bd4d-4516-aaa5-74dc0b2fca5d" />
+<img width="200" alt="Screenshot_20251216_142514" src="https://github.com/user-attachments/assets/27690e43-9704-47b1-92e1-dbf4ecf75f88" />
+<img width="200" alt="Screenshot_20251216_142502" src="https://github.com/user-attachments/assets/af1fbe03-1249-48f8-ab41-ab1679316f46" />
+
 
 ## ✨ Características Destacadas
 
