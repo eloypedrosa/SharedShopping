@@ -44,4 +44,4 @@ El proyecto sigue las mejores prácticas de desarrollo nativo en Android:
 **Eloy Pedrosa**
 [eloypedrosa.cat](http://eloypedrosa.cat)
 **Adrian Vázquez**
-[adrian web](https://comforting-cranachan-b49544.netlify.app/)
+[adrian web](adrian-vazquez.netlify.app)
