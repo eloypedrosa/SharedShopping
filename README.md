@@ -39,7 +39,9 @@ El proyecto sigue las mejores prácticas de desarrollo nativo en Android:
     * **Long Click:** Lógica para eliminar listas o productos con diálogos de confirmación de seguridad.
 * **Logica de Producto:** Al añadir un ítem, el sistema consulta un mapa interno (`autoMap`) para asignar iconos y categorías (ej: "huevo" → "Frutas y verduras" 🥚) si existen coincidencias.
 
-## 👤 Autor
+## 👤 Autores
 
 **Eloy Pedrosa**
 [eloypedrosa.cat](http://eloypedrosa.cat)
+**Adrian Vázquez**
+[adrian web](https://comforting-cranachan-b49544.netlify.app/)
