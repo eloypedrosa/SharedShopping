@@ -8,10 +8,10 @@ Este proyecto demuestra el uso de arquitecturas reactivas para gestionar partida
 
 ## 📱 Galería
 
-<img width="1080" height="2280" alt="Screenshot_20251216_140116" src="https://github.com/user-attachments/assets/a29e7553-d86d-4601-b829-f782481325ac" />
-<img width="1080" height="2280" alt="Screenshot_20251216_140136" src="https://github.com/user-attachments/assets/eecec909-bd83-4b95-9214-037455655517" />
-<img width="1080" height="2280" alt="Screenshot_20251216_135941" src="https://github.com/user-attachments/assets/acb08e85-47cf-4aa4-b9db-0f2b42003d30" />
-<img width="1080" height="2280" alt="Screenshot_20251216_140016" src="https://github.com/user-attachments/assets/77dc383c-5c72-4573-8d97-3d22a0feaa9a" />
+<img width="200" alt="Screenshot_20251216_140116" src="https://github.com/user-attachments/assets/a29e7553-d86d-4601-b829-f782481325ac" />
+<img width="200" alt="Screenshot_20251216_140136" src="https://github.com/user-attachments/assets/eecec909-bd83-4b95-9214-037455655517" />
+<img width="200" alt="Screenshot_20251216_135941" src="https://github.com/user-attachments/assets/acb08e85-47cf-4aa4-b9db-0f2b42003d30" />
+<img width="200" alt="Screenshot_20251216_140016" src="https://github.com/user-attachments/assets/77dc383c-5c72-4573-8d97-3d22a0feaa9a" />
 
 ---
 
