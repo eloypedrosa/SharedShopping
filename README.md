@@ -47,8 +47,7 @@ El proyecto sigue las mejores prácticas de desarrollo moderno en Android:
 
 ### 👤 Autor
 
-**[Tu Nombre]**
-* [LinkedIn](Tu LinkedIn)
-* [Portfolio](Tu Web)
+**Eloy Pedrosa**
+* [eloypedrosa.cat](Tu Web)
 
 ⭐️ **Si te ha gustado este proyecto, ¡no olvides darle una estrella!**
